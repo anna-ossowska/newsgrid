@@ -1,1 +1,1 @@
-# newsgrid
+UI for the news website.
